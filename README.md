@@ -5,20 +5,22 @@ Una colección de temas personalizados para [MacDown](https://macdown.uranusjr.c
 ## Temas Incluidos
 
 ### Claude (Dark)
-Un tema oscuro inspirado en la interfaz de Claude, diseñado para ofrecer una experiencia de escritura técnica relajada y legible.
-- **Versión:** 1.4758
-- **Estilo:** Dark (Oscuro)
+Un tema oscuro inspirado en la interfaz de Claude, diseñado para ofrecer una experiencia de escritura técnica relajada y legible en el editor.
+- **Formato:** `.style` (Editor Style)
+- **Esquema:** Dark (Oscuro)
 
 ## Instalación
 
-1. Descarga el archivo `.css` del tema deseado desde la carpeta `dist/styles/`.
+### Estilo del Editor (Syntax Highlighting)
+
+1. Descarga el archivo `claude-dark.style` desde la carpeta `dist/Styles/`.
 2. Abre MacDown.
 3. Ve a `MacDown` > `Preferences` (o presiona `Cmd + ,`).
 4. Selecciona la pestaña `Appearance`.
-5. En la sección **Editor**, haz clic en el botón `Reveal` junto al menú desplegable de temas. Esto abrirá la carpeta de temas en Finder.
-6. Copia el archivo `.css` descargado en esa carpeta.
-7. Reinicia MacDown o selecciona el nuevo tema directamente en el menú desplegable.
+5. En la sección **Editor**, haz clic en el botón `Reveal` junto al menú desplegable **Editor style**. Esto abrirá la carpeta de estilos en Finder.
+6. Copia el archivo `claude-dark.style` en esa carpeta.
+7. Reinicia MacDown o selecciona `claude-dark` directamente en el menú desplegable **Editor style**.
 
 ## Contribuciones
 
-Si tienes un tema que te gustaría compartir, ¡siéntete libre de abrir un Pull Request!
+Si tienes un tema o estilo que te gustaría compartir, ¡siéntete libre de abrir un Pull Request!
